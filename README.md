@@ -23,7 +23,7 @@
  
  ## Contributors
  praneeth reddy kalluri, grad student Northwest Missouri state university.
- 
+ ![](Praneeth.JPG)
  
   
 
