@@ -19,7 +19,11 @@
  There are resources where you can learn git with ease. I could recommend some of them.
  - [Github practice](https://resources.github.com/videos/github-best-practices/)
  - [code Academy](https://www.codecademy.com/learn/learn-git)
- - [Tutorials point](https://www.tutorialspoint.com/git/index.html)
+ - [Tutorials point](https://www.tutorialspoint.com/git/index.htm)
+ 
+ ## Contributors
+ praneeth reddy kalluri, grad student Northwest Missouri state university.
+ 
  
   
 
