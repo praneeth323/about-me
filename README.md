@@ -21,7 +21,9 @@
  - [code Academy](https://www.codecademy.com/learn/learn-git)
  - [Tutorials point](https://www.tutorialspoint.com/git/index.htm)
  
- ## Contributors
+ 
+ ## Contributor
+ 
  praneeth reddy kalluri, grad student Northwest Missouri state university.
  ![](Praneeth.JPG)
  
